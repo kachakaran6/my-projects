@@ -69,6 +69,11 @@ const ProjectLinks = () => {
       link: 'https://to-do-phi-orpin.vercel.app/',
     },
     {
+      title: 'Weather App',
+      description: 'Get weather anytime',
+      link: 'https://weather-ashen-eta.vercel.app/',
+    },
+    {
       title: 'Light Dark Mode Switcher',
       description: 'Just for Fun',
       link: 'https://light-dark-mode-eight-pink.vercel.app/',
