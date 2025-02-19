@@ -58,9 +58,9 @@ const ProjectLinks = () => {
       link: "https://react-portfolio-roan-seven.vercel.app/",
     },
     {
-      title: "Tracker",
-      description: "Keep tracking all your debts",
-      link: "https://tracker-eight-xi.vercel.app/",
+      title: "Expense Tracker",
+      description: "Trace your expenses",
+      link: "https://exxpense-traacker.netlify.app/",
     },
     {
       title: "Travel Planner",
@@ -86,6 +86,11 @@ const ProjectLinks = () => {
       title: "Light Dark Mode Switcher",
       description: "Just for Fun",
       link: "https://light-dark-mode-eight-pink.vercel.app/",
+    },
+    {
+      title: "Tracker",
+      description: "Keep tracking all your debts",
+      link: "https://tracker-eight-xi.vercel.app/",
     },
   ];
 
