@@ -78,9 +78,19 @@ const ProjectLinks = () => {
       link: "https://to-do-phi-orpin.vercel.app/",
     },
     {
+      title: "Age Calculator",
+      description: "A simple Age Calculator with react",
+      link: "https://age-calculator-git-main-karans-projects-61780ee8.vercel.app/",
+    },
+    {
       title: "Weather App",
       description: "Get weather anytime",
       link: "https://weather-ashen-eta.vercel.app/",
+    },
+     {
+      title: "Task Trekker",
+      description: "A todo List with drag and drop feature.",
+      link: "https://todo-tasktrekker.netlify.app/",
     },
     {
       title: "Light Dark Mode Switcher",
