@@ -3,8 +3,8 @@ import "animate.css";
 
 const ProjectCard = ({ title, description, link }) => {
   return (
-    <div className="max-w-xs w-full bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 rounded-lg shadow-lg hover:scale-105 transform transition-all duration-300 ease-in-out">
-      <div className="p-6 flex flex-col justify-between h-full bg-white rounded-lg shadow-lg group hover:shadow-2xl hover:bg-[#11131e] transition-shadow duration-500 ease-in-out">
+    <div className="max-w-xs w-full bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 rounded-lg shadow-lg hover:scale-105 transform transition-all duration-[0.7s] ease-in-out">
+      <div className="p-6 flex flex-col justify-between h-full bg-white rounded-lg shadow-lg group hover:shadow-2xl hover:bg-[#11131e] transition-shadow duration-[0.7s] ease-in-out">
         <h3 className="text-2xl font-semibold text-gray-800 mb-4 group-hover:text-pink-400 transition-colors duration-500">
           {title}
         </h3>
@@ -13,7 +13,7 @@ const ProjectCard = ({ title, description, link }) => {
         </p>
         <a
           href={link}
-          className="mt-auto bg-pink-600 text-white py-2 px-6 rounded-lg text-center transform transition-transform duration-300 ease-in-out group-hover:scale-110 hover:bg-indigo-700"
+          className="mt-auto bg-pink-600 text-white py-2 px-6 rounded-lg text-center transform transition-transform duration-[2s] ease-in-out group-hover:scale-110 hover:bg-indigo-700"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -43,6 +43,16 @@ const ProjectLinks = () => {
       link: "https://kk-portfolio-website.vercel.app/",
     },
     {
+      title: "Quiz App",
+      description: "A mini project for MCA quizs",
+      link: "https://mca-quiz.vercel.app/",
+    },
+    {
+      title: "Cofee Website",
+      description: "A mini project for MCA quizs",
+      link: "https://mca-quiz.vercel.app/",
+    },
+    {
       title: "To Do Vault",
       description: "For keeping track of what matters",
       link: "https://to-do-vault.netlify.app/",
@@ -51,6 +61,11 @@ const ProjectLinks = () => {
       title: "Currency Converter",
       description: "Get quickly all currency rates",
       link: "https://currency-converter-nine-wheat.vercel.app/",
+    },
+    {
+      title: "Age Calculator",
+      description: "Calulate your age",
+      link: "https://age-calculator-git-main-karans-projects-61780ee8.vercel.app/",
     },
     {
       title: "2nd Portfolio",
