@@ -49,8 +49,8 @@ const ProjectLinks = () => {
     },
     {
       title: "Cofee Website",
-      description: "A mini project for MCA quizs",
-      link: "https://mca-quiz.vercel.app/",
+      description: "A Coffe website",
+      link: "https://cafe-chronicles.netlify.app/",
     },
     {
       title: "To Do Vault",
@@ -102,7 +102,7 @@ const ProjectLinks = () => {
       description: "Get weather anytime",
       link: "https://weather-ashen-eta.vercel.app/",
     },
-     {
+    {
       title: "Task Trekker",
       description: "A todo List with drag and drop feature.",
       link: "https://todo-tasktrekker.netlify.app/",
