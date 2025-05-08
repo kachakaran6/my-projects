@@ -33,14 +33,20 @@ const ProjectLinks = () => {
 
   const projects = [
     {
+      title: "My Portfolio Website",
+      description: "My all projects, My education, My skills",
+      link: "https://kk-portfolio-website.vercel.app/",
+    },
+    {
       title: "Study Point",
       description: "Collection of all necessary materials for MCA",
       link: "https://pu-mca.netlify.app/",
     },
     {
-      title: "My Portfolio Website",
-      description: "My all projects, My education, My skills",
-      link: "https://kk-portfolio-website.vercel.app/",
+      title: "Footwear Collection",
+      description:
+        "A footwear website, where you can sort and filter shoes, sandal, and more things",
+      link: "https://kk-e-comm.vercel.app/",
     },
     {
       title: "Quiz App",
