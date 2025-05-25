@@ -58,7 +58,12 @@ const ProjectLinks = () => {
       description: "A Coffe website",
       link: "https://cafe-chronicles.netlify.app/",
     },
-        {
+     {
+      title: "Shayri App",
+      description: "A web app where you get awesome shayris to realx yourself",
+      link: "https://shayri-app.vercel.app/",
+    },
+    {
       title: "Add To Cart",
       description: "A mini project showcasing the functionality of adding items to cart",
       link: "https://add-to-cart-dun.vercel.app/",
