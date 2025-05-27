@@ -63,6 +63,11 @@ const ProjectLinks = () => {
       description: "A web app where you get awesome shayris to realx yourself",
       link: "https://shayri-app.vercel.app/",
     },
+     {
+      title: "Upgrade Tracker",
+      description: "A solution for keep track on your projects upgrades , and plans",
+      link: "https://upgrade-tracker.vercel.app/",
+    },
     {
       title: "Add To Cart",
       description: "A mini project showcasing the functionality of adding items to cart",
